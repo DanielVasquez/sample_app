@@ -12,7 +12,7 @@ describe "Static pages" do
   describe "Home page" do
     before { visit root_path }
 
-    let(:heading)    { 'Sample App' }
+    let(:heading)    { 'Bienvenidos sean' }
 
     let(:page_title) { '' }
 
